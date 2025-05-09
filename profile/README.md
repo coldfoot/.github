@@ -1,3 +1,7 @@
+# Coldfoot Studio
+
+Hello there! Welcome! :)
+
 👋 About Us
 
 We are a loose collective of designers, data journalists, and developers who come together to create socially relevant (and multiple award-winning!) projects — often experimental, always committed. While we’re not a formal organization, we’ve collaborated over the years with partners such as:
