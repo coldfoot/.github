@@ -12,17 +12,20 @@ We are a loose collective of designers, data journalists, and developers who com
 Our work touches on urgent issues like Covid-19, news deserts in Latin America, and hunger in Brazil. We use data, design, and storytelling to make complex realities visible — and hopefully, actionable.
 
 🌱 What We Believe
+
 	* Technology should serve people, not the other way around
 	* Good design is inclusive and intentional
 	* Stories are powerful tools for change
 	* Collaboration beats competition
 
 🛠️ What We Do
+
 	* Interactive maps and dashboards
 	* Data analysis and visualization
 	* Narrative-driven data stories
 
 📍 Highlights
+
 	* [News Deserts Dashboard (FOPEA)](https://desiertosinformativos.fopea.org/)
 	* [At the Epicenter (with Agência Lupa)](https://noepicentro.news/en/)
   * [Atlas del Silencio (with Ipys)](https://ipysvenezuela.org/atlas-del-silencio/)
